@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/1260-shift-2d-grid) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
