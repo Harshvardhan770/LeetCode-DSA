@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0182-duplicate-emails](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0196-delete-duplicate-emails) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
