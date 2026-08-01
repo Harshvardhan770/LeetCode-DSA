@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Number Theory
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harshvardhan770/LeetCode-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
